@@ -10,7 +10,7 @@ El objetivo principal es modelar y pronosticar la evolución de los cortes de lu
 - La interacción dinámica entre las series mediante modelos multivariados.
 - La estabilidad del desempeño predictivo bajo distintos esquemas de validación.
 
-📈 Metodología
+# 📈 Metodología
 
 El análisis se desarrolla en las siguientes etapas:
 
