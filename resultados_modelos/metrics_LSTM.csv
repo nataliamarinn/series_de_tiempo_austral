@@ -1,0 +1,5 @@
+model,serie,rmse,mae
+LSTM_Uni,Cortes,7.9298,5.7285
+LSTM_Uni,Temp,5.7406,4.6899
+LSTM_Uni,Hum,12.5247,11.0524
+LSTM_Multi,Cortes (Temp+Hum),8.1367,6.1649

@@ -1,0 +1,5 @@
+model,serie,rmse,mae
+SVR_Uni,Cortes,7.981,5.4937
+SVR_Uni,Temp,7.6638,6.2515
+SVR_Uni,Hum,16.0349,14.0264
+SVR_Multi,Cortes (Temp+Hum),8.5993,5.662

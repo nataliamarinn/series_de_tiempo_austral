@@ -1,0 +1,5 @@
+model,serie,rmse,mae,n_lag,max_secs
+AutoML_Uni,Cortes,8.3261,5.9961,3,180
+AutoML_Uni,Temp,2.6153,2.0009,2,180
+AutoML_Uni,Hum,7.2775,5.6944,2,180
+AutoML_Multi,Cortes (Temp+Hum),7.9112,5.9163,3,180

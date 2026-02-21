@@ -1,0 +1,4 @@
+model,serie,rmse,mae
+Prophet,Cortes,8.5504,6.7762
+Prophet,Temp,2.3483,1.9052
+Prophet,Hum,7.3545,5.3409
