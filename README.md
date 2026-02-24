@@ -78,12 +78,8 @@ Evaluación conjunta de todos los modelos mediante RMSE, MAE, Var Ratio y Peak R
 
 ## 👥 Grupo 3
 
-| Integrante | Modelo |
-|------------|--------|
-| Natalia    | Darts  |
-| Jorgelina  | Prophet |
-| Cristian   | LSTM   |
-| Mauricio   | H2O AutoML |
+**Materia:** Análisis de Series de Tiempo  
+**Alumnos:** Arenas - Banegas - Marín - Zamora
 
 ---
 
